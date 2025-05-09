@@ -97,6 +97,29 @@ if (salarioFunc > 5000) {
 
 //     Laços de repetição
 
+let controle = 11
+while(controle <= 10){
+    controle = controle + 1
+    console.log("Senac Americana")
+}
+
+controle = 1 // definição da variável de controle
+while(controle <= 100){ // condição
+    console.log(controle)
+    controle = controle + 2 // incremento
+}
+
+// mostrar 10 vezes "Senac Americana"
+
+for(let i = 1; i <= 10; i++) {
+    console.log("Senac Americana")
+}
+
+for(let i = 1; i <= 50; i = i + 1) {
+    console.log(i)
+    iii += "i"
+}
+
 // Arrays 
 
 // Funções básicas
