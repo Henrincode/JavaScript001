@@ -147,7 +147,9 @@ function soma(num1, num2) {
 
 soma(100, 14)
 soma(7, 3)
+
 // Escopo
+
 
 // Alterar conteúdo e atributos *
 // incluir js em página html *
