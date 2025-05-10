@@ -140,6 +140,13 @@ frutas.push("🍌")
 console.log(frutas)
 
 // Funções básicas
+function soma(num1, num2) {
+    let total = num1 + num2
+    console.log("O retultado é " + total)
+}
+
+soma(100, 14)
+soma(7, 3)
 // Escopo
 
 // Alterar conteúdo e atributos *
